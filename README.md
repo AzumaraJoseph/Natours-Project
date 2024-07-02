@@ -7,7 +7,7 @@ In addition to CSS Grid, the project also covers the use of SVG icons, BEM metho
 Check out the live app [here](https://natours.netlify.app/).
 
 ## Installation
-To install and set up the Oxford Royale Academy Project locally, follow these steps:
+To install and set up the Natours-Project locally, follow these steps:
 
 ```bash
 # Clone the repository
