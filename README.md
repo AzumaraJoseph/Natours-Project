@@ -37,7 +37,7 @@ This project is forked from [Original Repository](https://github.com/jonasschmed
 
 ## Deployed
 
-Deployed on [GitHub Pages](https://AzumaraJoseph.github.io/Natours-Project)
+Deployed on [GitHub Pages](https://AzumaraJoseph.github.io/JossyCollections_Angular)
 
 
 ## Built With
